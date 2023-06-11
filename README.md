@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**JxxHxxx/JxxHxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+반갑습니다. 제 이름은 이재헌입니다.   
+사이타마 수련법을 좋아합니다.
 
-Here are some ideas to get you started:
+😊좋아하는 기술
+```
+- JAVA 
+- Spring Boot, Spring Framework
+- JPA
+- MySQL 
+- Junit5
+- AWS (VPC, EC2[Linux/ubuntu])
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙂한 번 이상 사용해본 기술  
+```
+- Jenkins, Github Action
+- docker
+- Mokito
+- Cache(local Cache, Redis), Spring Rest Docs
+- AWS (Lambda, Application Load Balancer, Elastic Beanstalk)  
+```
