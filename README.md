@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-반갑습니다. 제 이름은 이재헌입니다.  현재 사이타마 수련법을 진행중입니다.
+반갑습니다. 백엔드 개발자 이재헌입니다.
 
 👨‍💻 요즘 보는 책
 
@@ -25,7 +25,7 @@
 - AWS (Lambda, Application Load Balancer, Elastic Beanstalk)  
 ```
 
-😄 조만간 공부하려는 주제
+😄 todo stack area
 ```
 - api gateway pattern(Spring Cloud Gateway)
 ```
