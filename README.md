@@ -4,7 +4,7 @@
 
 👨‍💻 요즘 보는 책
 
-- [SQL 첫걸음]([https://product.kyobobook.co.kr/detail/S000201399476](https://www.yes24.com/Product/Goods/22744867)
+- [SQL 첫걸음](https://www.yes24.com/Product/Goods/22744867)
 
 😊 좋아하는 기술
 ```
