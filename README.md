@@ -5,7 +5,8 @@
 👨‍💻 요즘 보는 책
 
 - [SQL 첫걸음](https://www.yes24.com/Product/Goods/22744867)
-
+- [Java의 정석](https://product.kyobobook.co.kr/detail/S000001550352)
+- 
 😊 좋아하는 기술
 ```
 - JAVA 
