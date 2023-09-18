@@ -5,7 +5,7 @@
 👨‍💻 요즘 보는 책
 
 - [Java의 정석](https://product.kyobobook.co.kr/detail/S000001550352)
-= [스프링 배치 완벽가이드](https://product.kyobobook.co.kr/detail/S000001805018)
+- [스프링 배치 완벽가이드](https://product.kyobobook.co.kr/detail/S000001805018)
   
 😊 좋아하는 기술
 ```
