@@ -2,10 +2,8 @@
 
 반갑습니다. 백엔드 개발자 이재헌입니다.
 
-👨‍💻 요즘 보는 책
-
-- [Java의 정석](https://product.kyobobook.co.kr/detail/S000001550352)
-- [스프링 배치 완벽가이드](https://product.kyobobook.co.kr/detail/S000001805018)
+👨‍💻 요즘 하는 것들
+영한님 강의를 다시 보고 있어요 :) 재밋네요ㅎ
   
 😊 좋아하는 기술
 ```
