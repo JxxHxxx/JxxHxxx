@@ -4,27 +4,19 @@
 
 👨‍💻 요즘 하는 것들
 영한님 강의를 다시 보고 있어요 :) 재밋네요ㅎ
+
+😊 좋아하는 것들
+```
+- 커피없인 못 살아요.
+- 로파이 음악 듣는 걸 좋아해요. Lofi 코딩 최고!
+```
   
-😊 좋아하는 기술
+😊 좋아하거나 사용중인 기술
 ```
-- JAVA 
-- Spring Boot, Spring Framework
-- JPA
-- MySQL 
-- Junit5
-- AWS (VPC, EC2[Linux/ubuntu])
-```
-
-🙂 한 번 이상 사용해본 기술  
-```
-- Jenkins, Github Action
-- docker
-- Mokito
-- Cache(local Cache, Redis), Spring Rest Docs
-- AWS (Lambda, Application Load Balancer, Elastic Beanstalk)  
+- Java
+- Spring Boot & Spring Framework
+- JPA, Mybatis
+- Unit & Integration Test
+- RDBMS
 ```
 
-😄 todo stack area
-```
-- 
-```
