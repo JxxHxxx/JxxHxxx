@@ -5,9 +5,11 @@
 😊 관심있는 기술
 ```
 - spring web, spring batch, spring integration
-- jdbc, jpa
-- testing
-- linux
+- postgresql, spring data jdbc
+- jdk
+
+- spa(vue3)
+- js, ts
 ```
 
 😊 사용중인 기술
